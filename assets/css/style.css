@@ -23,7 +23,8 @@ body {
 .our-services,
 .nature,
 .nightlife, 
-.contactform {
+.contactform,
+.footer {
     margin-top: 50px;
 }
 .content-animal,
@@ -77,4 +78,11 @@ body {
 }
 .form1 {
     margin-bottom: 10px;
+}
+.footer h2 {
+    margin-bottom: 10px;
+}
+.footer p {
+    margin-left: 25%;
+    margin-right: 25%;
 }
