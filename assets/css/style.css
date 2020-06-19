@@ -1,0 +1,69 @@
+body {
+    background-color: #DDD;
+}
+.botao .btn-outline-light:hover {
+    background-color: #3C454C;
+}
+.botao {
+    margin-left: 10px;
+    display: inline;
+}
+.fundo {
+    background-image: url(/media/city.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #999;
+}
+.fundo h1,
+.fundo p {
+    text-shadow: 0.05em 0.05em #999;
+}
+.conteudo1,
+.food,
+.our-services,
+.nature {
+    margin-top: 50px;
+}
+.content-animal,
+.content-food,
+.content-nature {
+    background-color: #C6C6C6;
+}
+.content-animal h5,
+.content-food h5,
+.content-nature h5 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.botao_animal {
+    margin-left: 33%;
+    margin-bottom: 20px;
+}
+.content-food h5 {
+    padding-bottom: 20px;
+}
+.food-btn,
+.nature-btn {
+    margin-top: 10px;
+    margin-left: 50%;
+    margin-bottom: 20px;
+}
+.food-btn.btn,
+.nature-btn.btn {
+    background-color: #CCC;
+}
+.fundo-our {
+    background-image: url(/media/business.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-color: #999;
+}
+.fundo-our h1 {
+    text-shadow: 0.05em 0.05em #999;
+}
+.nature-img {
+    width: 100%;
+}
+.nature-btn {
+    margin-left: 33%;
+}
