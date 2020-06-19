@@ -21,7 +21,8 @@ body {
 .conteudo1,
 .food,
 .our-services,
-.nature {
+.nature,
+.nightlife {
     margin-top: 50px;
 }
 .content-animal,
@@ -61,7 +62,8 @@ body {
 .fundo-our h1 {
     text-shadow: 0.05em 0.05em #999;
 }
-.nature-img {
+.nature-img,
+.nightlife-img {
     width: 100%;
 }
 .nature-btn {
