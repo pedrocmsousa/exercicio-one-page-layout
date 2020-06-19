@@ -4,4 +4,5 @@
 <?php require 'include/jour.php'; ?>
 <?php require 'include/nature.php'; ?>
 <?php require 'include/nightlife.php'; ?>
+<?php require 'include/contactform.php'; ?>
 <?php require 'include/footer.php'; ?>

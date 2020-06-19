@@ -22,7 +22,8 @@ body {
 .food,
 .our-services,
 .nature,
-.nightlife {
+.nightlife, 
+.contactform {
     margin-top: 50px;
 }
 .content-animal,
@@ -68,4 +69,12 @@ body {
 }
 .nature-btn {
     margin-left: 33%;
+}
+.contact {
+    background-image: url(/media/contact.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.form1 {
+    margin-bottom: 10px;
 }
