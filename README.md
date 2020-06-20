@@ -19,3 +19,5 @@
 ## 19/06/2020 21:25
 
 - Terminado o footer.php
+- Feita responsividade no celular
+- Scrool melhorado e associação de ids.
