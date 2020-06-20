@@ -15,3 +15,7 @@
 - Feita a parte de One Big Column
 - Feita a parte do Contact Form
 - Inicio da codificação do footer.php
+
+## 19/06/2020 21:25
+
+- Terminado o footer.php
