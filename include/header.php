@@ -20,19 +20,19 @@
             <div class="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
                 <ul class="navbar-nav ">
                     <li class="nav-item botao">
-                        <a class="nav-link btn btn-outline-light text-light" href="#">Homepage</a>          
+                        <a class="nav-link btn btn-outline-light text-light" href="#home">Homepage</a>          
                     </li>
                     <li class="nav-item botao">
-                        <a class="nav-link btn btn-outline-light text-light" href="#">About Us</a>
+                        <a class="nav-link btn btn-outline-light text-light" href="#about">About Us</a>
                     </li>
                     <li class="nav-item botao">
-                        <a class="nav-link btn btn-outline-light text-light" href="#">Services</a>
+                        <a class="nav-link btn btn-outline-light text-light" href="#services">Services</a>
                     </li>
                     <li class="nav-item botao">
-                        <a class="nav-link btn btn-outline-light text-light" href="#">Contact</a>
+                        <a class="nav-link btn btn-outline-light text-light" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item botao">
-                        <a class="nav-link btn btn-outline-light text-light" href="#">External</a>
+                        <a class="nav-link btn btn-outline-light text-light" href="#external">External</a>
                     </li>
                 </ul>
             </div>
