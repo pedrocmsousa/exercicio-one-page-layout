@@ -1,8 +1,8 @@
 <div class="container-fluid conteudo" id="contact">
     <div class="jumbotron jumbotron-fluid contact">
         <div class="container">
-            <h1 class="text-center text-light text-uppercase">contact form</h1>
-            <p class="text-center text-light text-justify">Aliquam erat volutpat. Curabitur porttitor nisl non ligula finibus, vel tempus ante luctus. Nunc quis sapien quis orci ultricies maximus. Nulla quis congue ante. Etiam vitae scelerisque nisi, non efficitur felis. Vivamus bibendum, neque at malesuada suscipit, urna felis commodo libero, et volutpat dolor nisl quis nisl. Pellentesque malesuada tellus eu ante laoreet ornare.</p>
+            <h1 class="text-center text-light text-uppercase contactform">contact form</h1>
+            <p class="text-center text-light text-justify contactform">Aliquam erat volutpat. Curabitur porttitor nisl non ligula finibus, vel tempus ante luctus. Nunc quis sapien quis orci ultricies maximus. Nulla quis congue ante. Etiam vitae scelerisque nisi, non efficitur felis. Vivamus bibendum, neque at malesuada suscipit, urna felis commodo libero, et volutpat dolor nisl quis nisl. Pellentesque malesuada tellus eu ante laoreet ornare.</p>
             <div class="row">
                 <div class="col">
                     <form action="" method="GET">

@@ -21,3 +21,7 @@
 - Terminado o footer.php
 - Feita responsividade no celular
 - Scrool melhorado e associação de ids.
+
+## 21/06/2020 21:55
+
+- Ajustes no formulário de contacto.

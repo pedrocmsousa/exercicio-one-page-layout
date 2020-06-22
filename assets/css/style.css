@@ -72,6 +72,9 @@ body {
     background-position: center;
     background-size: cover;
 }
+.contactform {
+    color: #C2C2C2 !important;
+}
 .form1 {
     margin-bottom: 10px;
 }
